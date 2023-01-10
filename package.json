@@ -1,0 +1,23 @@
+{
+  "name": "tsc-issues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsherret/tsc-issues.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsherret/tsc-issues/issues"
+  },
+  "homepage": "https://github.com/dsherret/tsc-issues#readme",
+  "dependencies": {
+    "typescript": "^5.0.0-dev.20230110"
+  }
+}
